@@ -1,0 +1,9 @@
+.social-container {
+    list-style: none;
+    display: flex;
+}
+
+.social-container li {
+    padding: 10px;
+}
+
